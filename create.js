@@ -53,7 +53,8 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         error.innerText = "";
-        window.location.href = "tic-tac-toe.html";
+        window.location.href = "game.html";
     });
 
 });
+

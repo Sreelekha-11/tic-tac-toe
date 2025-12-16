@@ -13,9 +13,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (loginPassword.value.length === 6) {
             loginError.innerText = "";
-            window.location.href = "tic-tac-toe.html";
+            window.location.href = "game.html";
         }
     });
 
 
 });
+
